@@ -1,0 +1,39 @@
+Ejercicio de comenzar a usar comandos y describir su funcionamieto
+
+git add <nombre del archivo> 					función: añade archivos a la staging area o área de trabajo
+
+git add . 										función: añade todos los archivos a la staging area o área de trabajo
+
+git commit -m "descripción asiciada al commit"  función: confirmacón de archivos y con "-m" mensaje asociado al commit sin abrir terminal
+
+git push origin master							función: Sube al servidor los cambios
+
+git pull										función: hace 
+
+git checkout 									función: cuando hay discrepancias que quiero omitir
+
+git branch										función: Línea / rama actual del proyecto (rama "master" por default)
+
+git branch login  								función: Crear rama alternativa de nombre "login" 
+
+git git checkout login 							función: Cambiar a la rama "login"
+
+git log											función: Visualizar los commits creados
+
+ls  											función: Visualizar archivos de la carpeta actual
+
+git init 										función: 
+
+bolivar@Wardruna:~/Documentos$ git init https://github.com/bola88g/ComandosGIT               ¿función?
+
+git config --global user.email bola88_g@ciencias.unam.mx			función: 
+
+git mv Primerosejerciciosphyton.ipynb Documentos/PruebaGit-Github/  
+												
+												función: Mover documento <"Primerosejerciciosphyton.ipynb"> a la ruta Documentos/PruebaGit-Github/
+
+
+git  											función: 
+git  											función: 
+git  											función: 
+git  											función: 
